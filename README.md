@@ -4,3 +4,6 @@ Este es otro trabajo. Nuevo en branch.
 
 # Nuevo Título
 Código de feat-section nuevo trabajo.
+
+# Este es más detalle
+El siguiente es más detalle para mejorar documentación.
